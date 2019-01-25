@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/funkygao/golib/dag"
+    "github.com/liamhendricks/golib/dag"
     "fmt"
 )
 
